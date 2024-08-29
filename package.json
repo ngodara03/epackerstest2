@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "puppeteer": "^23.2.0"
+  },
+  "scripts": {
+    "start": "node pdf.js",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
